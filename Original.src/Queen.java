@@ -54,3 +54,4 @@ public class Queen extends ChessGamePiece {
         }
     }
 }
+
